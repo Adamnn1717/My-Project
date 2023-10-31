@@ -1,9 +1,8 @@
-# This is a trial of my skills and what I've learnt so far with Mosh
-# I have no idea how to generate GUI's yet but this will have to do f
+
 print('WELCOME TO MY SITE')
 print('PLEASE SIGN UP TO CONTINUE')
-acc_name = var1 = input('Name: ')
-acc_email = var2 = input('Email: ')
+acc_name = var1 = input(' user Name: ')
+acc_email = var2 = input('user Email: ')
 acc_pass = var3 = input('Password: ')
 acc_pass2 = var4 = input('Confirm Password: ')
 if acc_pass != acc_pass2:
